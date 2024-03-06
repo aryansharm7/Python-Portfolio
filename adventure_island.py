@@ -1,0 +1,1 @@
+print("Welcome to my game Adventure island, In this game you will be given some choices and you have to select between them.")
